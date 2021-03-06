@@ -1,0 +1,29 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<!--
+2013-9-30: Created.
+-->
+<svg>
+<metadata>
+Created by iconfont
+</metadata>
+<defs>
+
+<font id="iconfont" horiz-adv-x="1024" >
+  <font-face
+    font-family="iconfont"
+    font-weight="500"
+    font-stretch="normal"
+    units-per-em="1024"
+    ascent="896"
+    descent="-128"
+  />
+    <missing-glyph />
+    
+    <glyph glyph-name="shopping_cart_ok" unicode="&#59031;" d="M816 416c114.88 0 208 93.12 208 208S930.88 832 816 832 608 738.88 608 624s93.12-208 208-208z m-96 240a47.84 47.84 0 0 0 33.936-14.064L784 611.888l94.064 94.064a48 48 0 0 0 67.872-67.888l-128-128c-8.688-8.688-20.688-14.064-33.936-14.064s-25.248 5.376-33.936 14.064l-64 64A48 48 0 0 0 720 656z m176-544H444.448l-23.952 68.464L835.2 208.112v0.016a47.968 47.968 0 0 1 40.576 28.192l77.28 171.728a254.416 254.416 0 0 0-122.976-39.312l-30.032-66.736-412.464-27.504L298.864 528h279.92A255.024 255.024 0 0 0 560 624H265.248l-27.952 79.856-0.176-0.064A47.84 47.84 0 0 1 192 736H48a48 48 0 1 1 0-96h109.952l184.8-528H256a96 96 0 1 1 96-96h448a96 96 0 1 1 96 96z"  horiz-adv-x="1024" />
+
+    
+
+
+  </font>
+</defs></svg>
