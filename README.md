@@ -8,10 +8,10 @@
   *查看購物車 可進行數量增減及刪除 再傳送數據庫 
 
 ### demo-1  
-![image](https://github.com/apple333069/mint_UI_Demo/blob/main/demo-1.png)  
+![image](https://github.com/apple333069/Mint-UI_Demo/blob/main/src/assets/demo-1.png)  
   
 ### demo-2  
-![image](https://github.com/apple333069/mint_UI_Demo/blob/main/demo-2.png)  
+![image](https://github.com/apple333069/mint_UI_Demo/blob/main/src/assets/demo-2.png)  
   
 ### demo-3  
-![image](https://github.com/apple333069/mint_UI_Demo/blob/main/demo-3.png)  
+![image](https://github.com/apple333069/mint_UI_Demo/blob/main/src/assets/demo-3.png)  
